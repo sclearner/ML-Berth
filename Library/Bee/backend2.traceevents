@@ -1,0 +1,273 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1704546259681215, "dur":20932, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704546259702155, "dur":349, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704546259702556, "dur":302, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704546259703042, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1704546259703731, "dur":191, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1704546259704006, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1704546259704157, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1704546259704312, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1704546259704589, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1704546259704836, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1704546259705082, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1704546259705295, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":0, "ts":1704546259705528, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1704546259705765, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":0, "ts":1704546259702876, "dur":4002, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704546259706880, "dur":198444, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704546259905325, "dur":185, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704546259905541, "dur":544, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704546259906249, "dur":10867, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1704546259703690, "dur":3248, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704546259706942, "dur":256, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704546259707198, "dur":1051, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704546259708847, "dur":2539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1704546259711580, "dur":530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1704546259712164, "dur":542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1704546259713077, "dur":418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1704546259713544, "dur":2509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704546259716157, "dur":3572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704546259719759, "dur":7650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704546259728913, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704546259727466, "dur":1514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704546259729050, "dur":1777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704546259730865, "dur":1502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704546259732458, "dur":1992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704546259734518, "dur":720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704546259735298, "dur":2456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704546259737788, "dur":1474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704546259739298, "dur":2514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704546259741874, "dur":247, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1704546259742615, "dur":6290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1704546259749069, "dur":4397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1704546259753486, "dur":151843, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704546259703518, "dur":3386, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704546259706912, "dur":251, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704546259707163, "dur":213, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704546259707377, "dur":901, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704546259709015, "dur":2182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1704546259712186, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1704546259711421, "dur":824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1704546259712361, "dur":823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1704546259713265, "dur":4699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259717996, "dur":935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259718961, "dur":693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259719721, "dur":815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259720566, "dur":766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259721370, "dur":1198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259722594, "dur":810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259723434, "dur":1259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259724720, "dur":1522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259726269, "dur":2198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259728499, "dur":1106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259729666, "dur":1219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259730921, "dur":1570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259732559, "dur":2164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259734759, "dur":1266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259736063, "dur":2360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259738474, "dur":1384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259739893, "dur":1227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259741181, "dur":1652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259742869, "dur":2386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1704546259745292, "dur":2237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1704546259747587, "dur":2353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1704546259749990, "dur":155415, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704546259703478, "dur":3416, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704546259706900, "dur":1306, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704546259709739, "dur":232, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":3, "ts":1704546259709977, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1704546259710058, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1704546259710299, "dur":256, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259710559, "dur":699, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259711261, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\NavMeshPlus.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259711339, "dur":555, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259711896, "dur":317, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259712214, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259712343, "dur":247, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259712591, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259712645, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259712751, "dur":149, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259712901, "dur":734, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259713636, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259713704, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1704546259713875, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player2cdec675-inputdata.json" }}
+,{ "pid":12345, "tid":3, "ts":1704546259709975, "dur":4086, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1704546259714484, "dur":80, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1704546259715677, "dur":187007, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1704546259904316, "dur":117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1704546259904314, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1704546259904466, "dur":745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1704546259703568, "dur":3349, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704546259706920, "dur":346, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704546259707267, "dur":1047, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704546259709557, "dur":1815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1704546259711385, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1704546259711712, "dur":501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1704546259712377, "dur":835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1704546259713224, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth.exe" }}
+,{ "pid":12345, "tid":4, "ts":1704546259713283, "dur":3603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth.exe" }}
+,{ "pid":12345, "tid":4, "ts":1704546259717295, "dur":115, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704546259717415, "dur":4518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259721963, "dur":2240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259724279, "dur":2784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259727108, "dur":1149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259728289, "dur":1217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259730791, "dur":445, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704546259729546, "dur":1703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259733387, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1704546259731289, "dur":2184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259733524, "dur":2520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259736085, "dur":1425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259737579, "dur":2317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259739969, "dur":1712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259741730, "dur":1286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259743081, "dur":2108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1704546259745227, "dur":4160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1704546259749439, "dur":1729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1704546259751195, "dur":154279, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704546259703669, "dur":3260, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704546259706933, "dur":252, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704546259707185, "dur":53, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704546259707238, "dur":1003, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704546259708953, "dur":2265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1704546259711430, "dur":683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1704546259712168, "dur":520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1704546259712783, "dur":474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1704546259713503, "dur":3558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259717098, "dur":998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259718209, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259719375, "dur":2425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259721859, "dur":981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259722898, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259724555, "dur":888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259725472, "dur":889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259726396, "dur":1110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259727539, "dur":979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259729936, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1704546259728645, "dur":1361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259730041, "dur":1600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259731686, "dur":2046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259733763, "dur":1309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259735106, "dur":1284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259736444, "dur":2745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259739226, "dur":2282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259741546, "dur":4228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1704546259745835, "dur":3396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1704546259749277, "dur":1590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1704546259750886, "dur":154391, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704546259703801, "dur":3147, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704546259706949, "dur":259, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704546259707209, "dur":1001, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1704546259708522, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259708617, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259708683, "dur":411, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259709096, "dur":351, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259709448, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259709519, "dur":315, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259709836, "dur":117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259709954, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259710005, "dur":309, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259710315, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259710378, "dur":608, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259710988, "dur":252, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259711241, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\NavMeshPlus.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259711322, "dur":643, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259711966, "dur":238, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259712205, "dur":490, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259712699, "dur":1325, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259714041, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\PackageCache\\com.unity.burst@1.8.4\\Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259714204, "dur":390, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"E:\\GameEngine\\Unity\\2022.3.2f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259716217, "dur":1908, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"ProjectSettings\\BurstAotSettings_StandaloneWindows.json" }}
+,{ "pid":12345, "tid":6, "ts":1704546259708213, "dur":9934, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":6, "ts":1704546259719826, "dur":914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259720758, "dur":971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259721929, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\ML Berth\\Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.LowLevel.ILSupport\\Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259721927, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259722127, "dur":1075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259723272, "dur":1111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259724474, "dur":3065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/NavMeshPlus.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259727567, "dur":1289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259728885, "dur":1266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259730185, "dur":1211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259731433, "dur":952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259732461, "dur":1065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259733568, "dur":1659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259735260, "dur":2172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259737540, "dur":1111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259738733, "dur":1780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259740548, "dur":1142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259741725, "dur":942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259742713, "dur":1320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259744116, "dur":18301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1704546259762442, "dur":142832, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704546259703906, "dur":3054, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704546259706962, "dur":264, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704546259707226, "dur":983, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704546259708765, "dur":2599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1704546259711433, "dur":786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1704546259712342, "dur":903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1704546259713771, "dur":4625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":7, "ts":1704546259718427, "dur":868, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259719325, "dur":1258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259720607, "dur":783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259721424, "dur":654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259722111, "dur":1145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259723292, "dur":1048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259724388, "dur":1452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259726034, "dur":1970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259728036, "dur":952, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259729057, "dur":1344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259730435, "dur":1574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259733405, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704546259732044, "dur":1438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259733521, "dur":1626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259735181, "dur":1629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259736842, "dur":900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259737777, "dur":1029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259738841, "dur":1092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259740015, "dur":1503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259741556, "dur":1000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259742590, "dur":1321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259743951, "dur":1692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1704546259745677, "dur":2807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1704546259748512, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1704546259748577, "dur":1852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1704546259750454, "dur":154939, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704546259703950, "dur":3089, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704546259707040, "dur":321, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704546259707361, "dur":876, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704546259708240, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/ML Build/Rule3/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1704546259709168, "dur":2335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1704546259711592, "dur":579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1704546259712951, "dur":154, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704546259712356, "dur":760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1704546259713261, "dur":769, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259714064, "dur":2639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259717730, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704546259716743, "dur":1102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259717885, "dur":1205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259719116, "dur":852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259720013, "dur":1309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259721353, "dur":718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259722102, "dur":1324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259723454, "dur":1916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259725404, "dur":830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259726265, "dur":3330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259729658, "dur":1623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259731318, "dur":966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259732328, "dur":2342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259734919, "dur":1172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259736123, "dur":1980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259738141, "dur":1400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259740864, "dur":171, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704546259739592, "dur":1481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259741113, "dur":1343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259744143, "dur":103, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704546259742494, "dur":1767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1704546259746982, "dur":93, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1704546259744308, "dur":2788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":8, "ts":1704546259747240, "dur":1178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1704546259748483, "dur":4258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/ML Build/Rule3/ML Berth_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1704546259752765, "dur":152645, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1704546259921027, "dur":1148, "ph":"X", "name": "ProfilerWriteOutput" }
+,
